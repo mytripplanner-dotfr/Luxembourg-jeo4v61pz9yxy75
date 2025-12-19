@@ -1,0 +1,168 @@
+{
+  "pays": "Luxembourg",
+  "drapeau": "🇱🇺",
+  "symbole": "🦁",
+  "titre": "Échappée Hivernale au Cœur du Luxembourg",
+  "budget_total": "620€",
+  "duree": "3 jours",
+  "date_debut": "2026-01-02",
+  "date_fin": "2026-01-05",
+  "temps_vol": "1h30 depuis Gerard, France en voiture",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas dans la Ville Haute",
+      "legende": "Après un court trajet, installez-vous confortablement dans votre hôtel. La première journée est dédiée à une douce immersion dans l'atmosphère hivernale de la Ville Haute, en flânant sur ses places emblématiques et en admirant l'architecture historique qui raconte des siècles d'histoire. Laissez-vous charmer par l'ambiance paisible de la capitale.",
+      "lieu": "Luxembourg-Ville",
+      "activites": [
+        "🛏️ <strong>Installation à l'hôtel</strong> : Prenez le temps de vous installer dans votre hôtel 3 étoiles, idéalement situé au cœur de la ville pour faciliter vos déplacements. Profitez de ce moment pour vous rafraîchir et vous préparer à l'exploration.",
+        "🚶‍♂️ <strong>Balade sur la Place Guillaume II et la Grand-Rue</strong> : Débutez votre découverte par la Place Guillaume II, surnommée \"Knuedler\", et la Grand-Rue, artère commerçante principale. Admirez l'Hôtel de Ville et l'ambiance animée des rues pavées."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transports Publics Gratuits",
+          "texte": "Le Luxembourg est le premier pays au monde à avoir rendu tous ses transports publics gratuits. Profitez-en pour vous déplacer sans frais dans la ville et au-delà."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Dîner Confortable",
+          "texte": "Pour votre première soirée, optez pour un restaurant chaleureux dans le centre-ville. De nombreux établissements proposent une cuisine luxembourgeoise traditionnelle ou internationale."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Plongée Historique et Panoramas Époustouflants",
+      "legende": "Aujourd'hui, le Luxembourg révèle ses secrets les plus anciens. Explorez les souterrains mystérieux des Casemates du Bock, témoins d'un passé militaire riche, avant de vous émerveiller devant les vues imprenables offertes par le Chemin de la Corniche. Terminez la journée par une immersion dans le quartier pittoresque du Grund, niché au creux de la vallée.",
+      "lieu": "Luxembourg-Ville",
+      "activites": [
+        " subterranean <strong>Visite des Casemates du Bock</strong> : Explorez ce réseau souterrain de galeries et de fortifications creusées dans la roche, offrant un aperçu fascinant de l'histoire défensive de la ville. Prévoyez des vêtements chauds, il y fait frais même en hiver.",
+        " panoramic <strong>Promenade sur le Chemin de la Corniche</strong> : Surnommé \"le plus beau balcon d'Europe\", ce chemin offre des vues spectaculaires sur la vallée de l'Alzette, le Grund et les remparts historiques. C'est l'endroit idéal pour des photos mémorables.",
+        " village <strong>Découverte du Grund</strong> : Descendez dans le quartier du Grund, un charmant village dans la ville, avec ses maisons colorées le long de la rivière. Flânez le long de l'Alzette et imprégnez-vous de son atmosphère unique."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil pour les Casemates",
+          "texte": "Les Casemates peuvent être glissantes par endroits, surtout en hiver. Portez des chaussures confortables et antidérapantes pour une visite en toute sécurité."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Spot Photo",
+          "texte": "Le point de vue depuis le Chemin de la Corniche, près de l'ascenseur du Grund, est parfait pour capturer la beauté de la ville basse et de ses fortifications."
+        },
+        {
+          "symbole": "🍷",
+          "titre": "Pause Gourmande",
+          "texte": "Dans le Grund, de petits cafés et restaurants proposent des spécialités locales. C'est l'occasion de goûter un \"Rieslingspaschtéit\" (pâté au Riesling)."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏛️",
+      "titre": "Modernité, Art et Détente Urbaine",
+      "legende": "Pour cette dernière journée, le Luxembourg révèle son visage contemporain. Explorez le quartier futuriste du Kirchberg, abritant des institutions européennes et une architecture audacieuse. Plongez dans l'art moderne au Mudam avant de profiter d'un moment de quiétude dans les espaces verts de la ville, offrant un contraste saisissant entre tradition et modernité.",
+      "lieu": "Luxembourg-Ville",
+      "activites": [
+        " modern <strong>Exploration du quartier du Kirchberg</strong> : Prenez le bus pour le quartier du Kirchberg, centre financier et institutionnel. Admirez l'architecture moderne de la Philharmonie, de la Cour de Justice de l'Union Européenne et de la Banque Européenne d'Investissement.",
+        " art <strong>Visite du Mudam (Musée d'Art Moderne Grand-Duc Jean)</strong> : Immergez-vous dans l'art contemporain au Mudam, un musée à l'architecture impressionnante conçu par I. M. Pei. Ses collections temporaires et permanentes sont toujours stimulantes.",
+        " green <strong>Détente au Parc de la Ville</strong> : Avant de reprendre la route, profitez d'une dernière balade relaxante dans le vaste Parc de la Ville. C'est un poumon vert en plein cœur urbain, idéal pour une bouffée d'air frais et une vue sur la vallée."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Accès au Kirchberg",
+          "texte": "De nombreux bus relient le centre-ville au Kirchberg. Le trajet est rapide et, bien sûr, gratuit."
+        },
+        {
+          "symbole": "🖼️",
+          "titre": "Billetterie Mudam",
+          "texte": "Vérifiez les horaires et tarifs sur le site officiel du Mudam avant votre visite. Des réductions peuvent être disponibles pour certaines catégories de visiteurs."
+        },
+        {
+          "symbole": "☕",
+          "titre": "Pause Café",
+          "texte": "Le Mudam dispose d'un café avec une vue agréable, parfait pour une pause après la visite des expositions."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget trajet:",
+      "legende": "70€/pers (estimation carburant/péages ou billet de train aller-retour depuis Gerard, France)",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "0€/pers (transports publics gratuits au Luxembourg)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "180€/pers (3 déjeuners et 3 dîners, hors petits-déjeuners souvent inclus à l'hôtel)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "345€/pers (3 nuits en hôtel 3 étoiles, base chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "25€/pers (entrées Casemates du Bock, Mudam)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mai à septembre pour un climat doux, ou décembre pour l'ambiance des marchés de Noël. Janvier offre une atmosphère hivernale paisible.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Le Luxembourg est un petit pays multilingue. Les langues officielles sont le luxembourgeois, le français et l'allemand. Le français est très largement parlé, surtout dans la capitale.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Avec une population d'environ 660 000 habitants, le Luxembourg est l'un des pays les moins peuplés d'Europe, mais sa capitale est très cosmopolite, avec une forte proportion de résidents étrangers.",
+      "symbole": "🌍"
+    },
+    {
+      "titre": "Le Grand-Duché de Luxembourg est la seule monarchie constitutionnelle grand-ducale au monde. C'est aussi l'un des pays les plus riches par habitant.",
+      "symbole": "👑"
+    },
+    {
+      "titre": "Fait insolite : Le Luxembourg a été le premier pays au monde à offrir la gratuité totale de ses transports publics à l'échelle nationale, une mesure entrée en vigueur en mars 2020.",
+      "symbole": "🆓"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations touristiques officielles du Luxembourg",
+      "titre": "Visit Luxembourg",
+      "url": "https://www.visitluxembourg.com/fr",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Site officiel des transports publics luxembourgeois",
+      "titre": "Mobiliteit.lu",
+      "url": "https://www.mobiliteit.lu/fr/",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Prévisions météo pour Luxembourg-Ville",
+      "titre": "Météo Luxembourg",
+      "url": "https://www.meteolux.lu/fr/",
+      "symbole": "🌤️"
+    }
+  ]
+}
